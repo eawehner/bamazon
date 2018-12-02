@@ -8,15 +8,15 @@ Bamazon is a CLI-based storefront that may or may not have been inspired by a ce
 
 ## Using Bamazon as a customer
 
-![Screen 01](/images/screen01.png)
+![Screen 01](/images/screen1.png)
 
 Once you've gotten Bamazon setup (as the MySQL database creator, NPM installer and Node.js champion that you are!), you'll see all the available items in stock. The most important bit of information for you, of course, is the price and stock quantity.
 
-![Screen 02](/images/screen02.png)
+![Screen 02](/images/screen2.png)
 
 You'll be prompted to select the item you'll want to buy by ID, as well as the amount you'll like! If there's enough of your item in stock then you'll be given a total and your (imaginary) items will be on their (imaginary) way to your (presumably, imaginary) way!
 
-![Screen 03](/images/screen03.png)
+![Screen 03](/images/screen3.png)
 
 Next time you boot up the program, you'll be able to notice the dent you've made in the availably of Light-Up Pikachus worldwide!
 
